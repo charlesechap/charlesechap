@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TUNNEL TUNNEL</title>
-    <link>http://tunneltunnel.ch/index.xml</link>
-    <description>Recent content on TUNNEL TUNNEL</description>
+    <title>We paint bicycles</title>
+    <link>http://echap.cc/index.xml</link>
+    <description>Recent content on We paint bicycles</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    <atom:link href="http://tunneltunnel.ch/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-en</language>
+    <atom:link href="http://echap.cc/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
