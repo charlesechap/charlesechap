@@ -9,7 +9,7 @@ build:
             $(git clone https://github.com/mattfeldman/hugo-semantic-homepage-starter.git ./themes/semantic)
     - arjen/hugo-build:
         version: "0.14"
-        theme: blank
+        theme: semantic
         flags: --buildDrafts=true
 
   deploy:
